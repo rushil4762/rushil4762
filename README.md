@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushil Ranpara</h1>
-<h3 align="center">Full Stack Developer | AI/ML Enthusiast | FastAPI Developer</h3>
+<h3 align="center">Full Stack Developer | AI/ML Enthusiast</h3>
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -17,7 +17,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/rushilranpara">
+<a href="https://www.linkedin.com/in/rushilranpara/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
