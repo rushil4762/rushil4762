@@ -5,17 +5,26 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="coding" width="320"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<table>
+<tr>
+<td width="65%" valign="middle">
 
-- 💼 Full Stack Developer & AI/ML Enthusiast
-- 🎓 Completed 6-Month Full Stack with AI/ML Internship
-- 🌱 Learning GenAI, RAG, LLMs, AI Agents
-- 🤝 Open to Freelancing and Collaborative Projects
-- 💬 Ask me about Python, FastAPI, Django, AI/ML & Problem Solving
-- ⚡ Fun fact: I turn coffee into code ☕
+* 💼 Full Stack Developer & AI/ML Enthusiast
+* 🎓 Completed 6-Month Full Stack with AI/ML Internship
+* 🌱 Learning GenAI, RAG, LLMs, AI Agents
+* 🤝 Open to Freelancing and Collaborative Projects
+* 💬 Ask me about Python, FastAPI, Django, AI/ML & Problem Solving
+* ⚡ Fun fact: I turn coffee into code ☕
 
-<br clear="both">
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
