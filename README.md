@@ -7,16 +7,26 @@
 ---
 
 
-## 🚀 About Me
+<table>
+<tr>
+<td>
 
 - 🔭 I’m currently working at **Inexture Solutions**
 - 🌱 Learning **GenAI, RAG, LLMs, AI Agents**
 - 👯 I’m looking to collaborate on Freelancing projects
-- 💬 Ask me about Python, Django, AI/ML & problem solving
-- ⚡  Fun fact: *I turn coffee into code ☕*
+- 💬 Ask me about Python, Django, AI/ML & Problem Solving
+- ⚡ Fun fact: *I turn coffee into code ☕*
+
+</td>
+<td>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
-
 ## 🌐 Connect With Me
 
 <p align="left">
