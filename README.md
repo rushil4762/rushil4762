@@ -2,11 +2,12 @@
 <h3 align="center">Full Stack Developer | AI/ML Enthusiast</h3>
 
 ---
+
 ## 🚀 About Me
 
 <table>
 <tr>
-<td>
+<td width="70%">
 
 - 🔭 I’m currently working at **Inexture Solutions**
 - 🌱 Learning **GenAI, RAG, LLMs, AI Agents**
@@ -15,17 +16,17 @@
 - ⚡ Fun fact: *I turn coffee into code ☕*
 
 </td>
-<td>
 
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
+<td width="30%" align="right" valign="top">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 </td>
 </tr>
 </table>
 
 ---
+
 ## 🌐 Connect With Me
 
 <p align="left">
